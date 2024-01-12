@@ -5,7 +5,6 @@ namespace App\Http\Controllers;
 use Illuminate\Http\Request;
 use Maatwebsite\Excel\Facades\Excel;
 use App\Imports\ContactsImport;
-use App\Models\Contact;
 use App\Models\ScheduledNotification;
 use Carbon\Carbon;
 
